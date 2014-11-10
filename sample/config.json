@@ -1,0 +1,1 @@
+[{"hardware":{"name":"RaspbarryPi","location":"London"}},{"configuration":[{"name":"Led Light","type":"output/light","location":"./LED"},{"name":"Console","type":"output/character","location":"./Matrix"}]}]
